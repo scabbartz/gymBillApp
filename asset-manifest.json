@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/gymBillApp/static/js/main.792bc539.chunk.js",
+    "main.js.map": "/gymBillApp/static/js/main.792bc539.chunk.js.map",
+    "runtime-main.js": "/gymBillApp/static/js/runtime-main.0bccfae2.js",
+    "runtime-main.js.map": "/gymBillApp/static/js/runtime-main.0bccfae2.js.map",
+    "static/js/2.f1f077d8.chunk.js": "/gymBillApp/static/js/2.f1f077d8.chunk.js",
+    "static/js/2.f1f077d8.chunk.js.map": "/gymBillApp/static/js/2.f1f077d8.chunk.js.map",
+    "index.html": "/gymBillApp/index.html",
+    "static/js/2.f1f077d8.chunk.js.LICENSE.txt": "/gymBillApp/static/js/2.f1f077d8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0bccfae2.js",
+    "static/js/2.f1f077d8.chunk.js",
+    "static/js/main.792bc539.chunk.js"
+  ]
+}

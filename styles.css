@@ -1,0 +1,104 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box; 
+    text-align: center;   
+}
+
+body {
+    
+    height: 100%;    
+    background-image: url("./images/home.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Copperplate, Papyrus, fantasy;
+    
+}
+
+header {
+    text-align: center;
+    background-color: #ffb03a;
+    margin: auto -16px;
+    padding: 7px 32px;
+    box-shadow: 0 0 10px 0 rgba(255, 255, 255, 0.3);
+    position: sticky;
+    
+  }
+
+
+.Clock {
+    float: right;
+    position: relative;    
+    border-radius: 10px;
+    height: 90px;
+    border: none;
+    background-color: none;    
+    color: #afc1c9;
+    text-align: center;          
+}
+
+.greet {
+
+    display: inline-block;
+    position: relative;    
+    font-family: Copperplate, Papyrus, fantasy;
+    text-shadow: rgb(170, 47, 47);
+    font-size: 40px;
+    color: #dddddd;
+    padding-top: 50px;
+          
+}
+
+footer {
+    position: absolute;
+    color: rgb(219, 219, 219);
+    text-align: center;
+    bottom: 0;
+    width: 100%;
+    height: 2.5rem;
+  }
+
+.labels {
+
+    display: inline-block;
+    position: relative;
+    size: 50px;
+}
+
+.weather-container {
+
+    position: relative;
+    color: azure;
+    float: left;
+    border-radius: 10px;
+
+}
+
+.weather-place {
+    
+    display: inline-block;
+
+}
+
+.weather-temp {
+   
+    display: inline-block;
+    padding-left: 20px;
+
+}
+
+
+.calculation {
+
+    color: #ffad4f;
+    position: relative;    
+    font-size: 27px;
+    display: block;
+    justify-content: center;
+    padding-top: 50px;
+    font-family: 'Nunito', sans-serif;
+    font-weight: initial;
+}
+
+
+ 
